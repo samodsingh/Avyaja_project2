@@ -1,0 +1,45 @@
+#Section1{
+    height: 100vh;
+    background: transparent;
+    background-image: url(../../images/backgroundimg.jpg);
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: cover;
+    background-attachment: initial;
+    position: relative;
+    overflow: hidden;
+}
+
+#Section1 .section1-left-text{
+    padding-top: 150px;
+    text-align: left;
+}
+
+#Section1 .section1-left-text h2{
+    display: block;
+    letter-spacing: 0em;
+    margin-bottom: 48px;
+    line-height: 48px;
+    color: #FFFFFF;
+    position: relative;
+    font-size: 36px;
+    font-family: 'Playfair Display', serif;
+    font-weight: 900;
+}
+
+#Section1 .section1-left-text p{
+    font-size: 18px;
+    line-height: 32px;
+    font-weight: 500;
+    margin-bottom: 12px;
+    padding: 0px 0 0 0px;
+    word-spacing: 0.03em;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+}
+#Section1 .section1-left-text .text-primary-color{
+    color: #FFB800;
+}
+.appointment_arrow_style{
+    margin-left: 70%;
+}
