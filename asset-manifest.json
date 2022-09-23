@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Avyaja_project2.git/static/css/main.7d02ccbe.css",
+    "main.js": "/Avyaja_project2.git/static/js/main.e23f86dc.js",
+    "static/js/787.997fa154.chunk.js": "/Avyaja_project2.git/static/js/787.997fa154.chunk.js",
+    "static/media/backgroundimg.jpg": "/Avyaja_project2.git/static/media/backgroundimg.dc5d6c6ce607e68a2718.jpg",
+    "static/media/logo.png": "/Avyaja_project2.git/static/media/logo.74f17c78fe3b9e3a6ffe.png",
+    "index.html": "/Avyaja_project2.git/index.html",
+    "main.7d02ccbe.css.map": "/Avyaja_project2.git/static/css/main.7d02ccbe.css.map",
+    "main.e23f86dc.js.map": "/Avyaja_project2.git/static/js/main.e23f86dc.js.map",
+    "787.997fa154.chunk.js.map": "/Avyaja_project2.git/static/js/787.997fa154.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d02ccbe.css",
+    "static/js/main.e23f86dc.js"
+  ]
+}
