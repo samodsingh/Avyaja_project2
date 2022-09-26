@@ -1,0 +1,13 @@
+    
+.carousel1-bg {
+    background-image: url(../../images/carouselimage.jpg);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: cover;
+    background-attachment: initial;
+    position: relative;
+    overflow: hidden;
+    background-color: #3d3f41;
+    padding: 40px 0 40px 0;
+    height: 100vh;
+}
