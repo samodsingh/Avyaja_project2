@@ -1,17 +1,22 @@
 {
-  "files": {
-    "main.css": "/Avyaja_project2.git/static/css/main.7d02ccbe.css",
-    "main.js": "/Avyaja_project2.git/static/js/main.e23f86dc.js",
-    "static/js/787.997fa154.chunk.js": "/Avyaja_project2.git/static/js/787.997fa154.chunk.js",
-    "static/media/backgroundimg.jpg": "/Avyaja_project2.git/static/media/backgroundimg.dc5d6c6ce607e68a2718.jpg",
-    "static/media/logo.png": "/Avyaja_project2.git/static/media/logo.74f17c78fe3b9e3a6ffe.png",
-    "index.html": "/Avyaja_project2.git/index.html",
-    "main.7d02ccbe.css.map": "/Avyaja_project2.git/static/css/main.7d02ccbe.css.map",
-    "main.e23f86dc.js.map": "/Avyaja_project2.git/static/js/main.e23f86dc.js.map",
-    "787.997fa154.chunk.js.map": "/Avyaja_project2.git/static/js/787.997fa154.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.7d02ccbe.css",
-    "static/js/main.e23f86dc.js"
-  ]
+  "main.css": "/Deployed_gh-pagas/static/css/main.cf749585.chunk.css",
+  "main.js": "/Deployed_gh-pagas/static/js/main.aabf587d.chunk.js",
+  "main.js.map": "/Deployed_gh-pagas/static/js/main.aabf587d.chunk.js.map",
+  "static/js/1.991710d6.chunk.js": "/Deployed_gh-pagas/static/js/1.991710d6.chunk.js",
+  "static/js/1.991710d6.chunk.js.map": "/Deployed_gh-pagas/static/js/1.991710d6.chunk.js.map",
+  "static/js/2.a1152c12.chunk.js": "/Deployed_gh-pagas/static/js/2.a1152c12.chunk.js",
+  "static/js/2.a1152c12.chunk.js.map": "/Deployed_gh-pagas/static/js/2.a1152c12.chunk.js.map",
+  "runtime~main.js": "/Deployed_gh-pagas/static/js/runtime~main.d717069c.js",
+  "runtime~main.js.map": "/Deployed_gh-pagas/static/js/runtime~main.d717069c.js.map",
+  "static/media/logo.png": "/Deployed_gh-pagas/static/media/logo.61b6ae65.png",
+  "static/media/imgplaystore.png": "/Deployed_gh-pagas/static/media/imgplaystore.ce42821b.png",
+  "static/media/about_feat_bg.jpg": "/Deployed_gh-pagas/static/media/about_feat_bg.448d2fdd.jpg",
+  "static/media/about_bottom_img.jpg": "/Deployed_gh-pagas/static/media/about_bottom_img.59676400.jpg",
+  "static/media/app-banner.jpg": "/Deployed_gh-pagas/static/media/app-banner.de05bc84.jpg",
+  "static/media/Formsection.css": "/Deployed_gh-pagas/static/media/backgroundimg.2c0e4cb9.jpg",
+  "static/media/Counterpage.css": "/Deployed_gh-pagas/static/media/counter_bg.ab35ef23.jpg",
+  "static/css/main.cf749585.chunk.css.map": "/Deployed_gh-pagas/static/css/main.cf749585.chunk.css.map",
+  "index.html": "/Deployed_gh-pagas/index.html",
+  "precache-manifest.39ab291c18ab2eb9d57064151e9be297.js": "/Deployed_gh-pagas/precache-manifest.39ab291c18ab2eb9d57064151e9be297.js",
+  "service-worker.js": "/Deployed_gh-pagas/service-worker.js"
 }
