@@ -44,9 +44,7 @@
     object-fit: cover;
     margin: auto;
   }
-  .card{
-    width: 300px;
-  }
+ 
   .card_title{
     height: 100px;
     width: 300px;

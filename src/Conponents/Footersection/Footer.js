@@ -3,7 +3,7 @@ import { Col, Row } from 'antd';
 import "./Footer.css";
 
 import {
-    MailOutlined,FieldTimeOutlined
+    MailOutlined,FieldTimeOutlined,HeatMapOutlined
 } from '@ant-design/icons';
 
 const Footer = () => {
@@ -18,7 +18,7 @@ const Footer = () => {
                             <p>
                             <MailOutlined className='icon-style' />  <a href="mailto:contact@avyaja.org">contact@avyaja.org</a>
                             </p>
-                            <p>#60, Shiva Sai Nagar, Beeramguda, Ameenpur, Dist- Sangareddy, Telangana, PIN 502032</p>
+                            <p> <HeatMapOutlined className='icon-style' />  #60, Shiva Sai Nagar, Beeramguda, Ameenpur, Dist- Sangareddy, Telangana, PIN 502032</p>
                             <p> <FieldTimeOutlined className='icon-style' />  Mon - Sun, 9:00 AM – 5:00 PM</p>
                         </div>
                     </Col>

@@ -6,6 +6,8 @@ import {
     Col,
     Row
 } from 'antd';
+import { Pagination, Navigation } from "swiper";
+
 // Import Swiper styles
 import "swiper/css";
 import "swiper/css/pagination";
@@ -16,10 +18,10 @@ import {useState} from "react";
 // import required modules
 import {Autoplay} from "swiper"; 
 export default function CardSlider() {
-  const [size, setsize] = useState (5);
+  const [size, setsize] = useState (4);
   const resizefun = () =>{
     if(window.innerWidth > 700 ){
-      setsize(5);
+      setsize(4);
     }
     else{
       setsize(1);
@@ -46,7 +48,7 @@ export default function CardSlider() {
           clickable: true,
         }}
         navigation={true}
-        modules={[ Autoplay]}
+        modules={[  Pagination, Navigation ,Autoplay]}
         autoplay={{
           delay: 2500,
           disableOnInteraction: false,
