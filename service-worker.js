@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Deployed_gh-pagas/precache-manifest.39ab291c18ab2eb9d57064151e9be297.js"
+  "/Avyaja_project2/precache-manifest.38c9ca8149d6ef761999abf873c68495.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Deployed_gh-pagas/index.html", {
+workbox.routing.registerNavigationRoute("/Avyaja_project2/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
